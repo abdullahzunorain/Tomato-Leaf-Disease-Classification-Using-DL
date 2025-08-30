@@ -389,10 +389,4 @@ This project uses the license included in the repository. If you want to contact
 * Linkedin: `https://www.linkedin.com/in/abdullahzunorain/`
 
 ---
-
-## Final notes
-
-* The notebooks are the canonical source for model design and preprocessing — open them to understand exact model layers, hyperparameters, and preprocessing steps.
-* Keep big datasets and models out of Git. Use `saved_models/` locally or a cloud storage and reference download instructions in the repo.
-
 ---
