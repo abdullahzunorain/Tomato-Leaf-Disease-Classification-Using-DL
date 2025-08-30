@@ -10,7 +10,7 @@
 2. [Repository structure](#repository-structure)
 3. [Prerequisites](#prerequisites)
 4. [Quick setup — one-shot (recommended)](#quick-setup)
-5. [Manual setup (detailed) — step by step](#manual-setup-(detailed)-—-step-by-step)
+5. [Manual setup (detailed) — step by step](#manual-setup-detailed-step-by-step)
 
    * Create virtual environment
    * Install backend dependencies
@@ -103,7 +103,7 @@ Open the frontend in your browser at `http://localhost:3000` (or the address pri
 
 ---
 
-## Manual setup (detailed) — step by step
+## Manual setup detailed step by step
 
 Each step below includes why it matters.
 
