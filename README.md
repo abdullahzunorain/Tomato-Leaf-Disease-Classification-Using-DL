@@ -27,7 +27,7 @@
 10. [Deployment (short guide)](#deployment)
 11. [Troubleshooting & common issues](#troubleshooting)
 12. [Useful git commands](#git-commands)
-13. [License & contact](#license)
+13. [License & contact](#license-&-contact)
 
 ---
 
