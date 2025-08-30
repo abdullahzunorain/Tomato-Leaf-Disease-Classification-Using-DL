@@ -21,7 +21,7 @@
    * Start backend API
    * Start frontend
    * Test with curl (example)
-7. [Training the model (notebooks)](#training)
+7. [Training the model (notebooks)](#training-the-model)
 8. [Using the pre-trained model](#pretrained)
 9. [Keeping repository clean (git/.gitignore) and handling large files](#git-lfs-and-large-files)
 10. [Deployment (short guide)](#deployment)
@@ -208,7 +208,8 @@ curl -X POST -F "file=@/path/to/image.jpg" http://127.0.0.1:5000/predict
 
 ---
 
-## Training the model (Jupyter notebooks)
+## Training the model 
+  `(Jupyter notebooks)`
 
 Training steps are provided as notebooks in `training (jupyter notebook)/`. Follow these steps to run them:
 
