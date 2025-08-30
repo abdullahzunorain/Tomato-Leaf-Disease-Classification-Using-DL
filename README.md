@@ -44,7 +44,7 @@ The repository is organized so you can run the whole demo locally (frontend + ba
 
 ---
 
-## Repository structure (what each folder is for)
+## Repository structure
 
 ```
 Z_tomato project__02/       # project root
