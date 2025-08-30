@@ -1,5 +1,8 @@
 # Tomato Leaf Disease Classification Using Deep Learning
 
+![Tomato Leaf](tomato_pic.jpeg)
+
+
 **Simple, step-by-step guide — from setup to training to running the app.**
 
 ---
