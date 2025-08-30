@@ -22,7 +22,7 @@
    * Start frontend
    * Test with curl (example)
 7. [Training the model (notebooks)](#training-the-model)
-8. [Using the pre-trained model](#pretrained)
+8. [Using the pre-trained model](#using-the-pre-trained-model)
 9. [Keeping repository clean (git/.gitignore) and handling large files](#git-lfs-and-large-files)
 10. [Deployment (short guide)](#deployment)
 11. [Troubleshooting & common issues](#troubleshooting)
