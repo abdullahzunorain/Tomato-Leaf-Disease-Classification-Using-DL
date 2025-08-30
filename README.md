@@ -213,7 +213,12 @@ curl -X POST -F "file=@/path/to/image.jpg" http://127.0.0.1:5000/predict
 **Note:** Check `api/main.py` to confirm the exact endpoint and form field name. The API commonly returns a JSON with predicted class and confidence.
 
 ---
+## Sample Result
 
+an example prediction result from the trained model:
+
+![Sample Result](result.png)
+---
 ## Training the model 
   `(Jupyter notebooks)`
 
