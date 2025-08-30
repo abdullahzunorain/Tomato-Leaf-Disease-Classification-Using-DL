@@ -47,7 +47,7 @@ The repository is organized so you can run the whole demo locally (frontend + ba
 ## Repository structure
 
 ```
-Z_tomato project__02/       # project root
+tomato disease classification project/       # project root
 ├─ api/                      # backend API (Python) - run this to get /predict endpoint
 ├─ frontend/                 # React app (UI) - runs on localhost:3000 by default
 ├─ saved_models/             # local-only: trained model(s) (ignored by git)
