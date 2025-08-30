@@ -25,7 +25,7 @@
 8. [Using the pre-trained model](#using-the-pre-trained-model)
 9. [Keeping repository clean (git/.gitignore) and handling large files](#git-lfs-and-large-files)
 10. [Deployment (short guide)](#deployment)
-11. [Troubleshooting & common issues](#troubleshooting)
+11. [Troubleshooting & common issues](#troubleshooting-common-issues)
 12. [Useful git commands](#git-commands)
 13. [License & contact](#license-and-contact)
 
@@ -312,7 +312,7 @@ gcloud run deploy tomato-api --image gcr.io/<PROJECT_ID>/tomato-api --platform m
 
 ---
 
-## Troubleshooting & common issues
+## Troubleshooting common issues
 
 **1. `best_model.h5` or dataset accidentally committed**
 
