@@ -16,7 +16,7 @@
    * Install backend dependencies
    * Install frontend dependencies
    * Configure environment variables
-6. [Run the application locally](#run-locally)
+6. [Run the application locally](#run-the-application-locally)
 
    * Start backend API
    * Start frontend
