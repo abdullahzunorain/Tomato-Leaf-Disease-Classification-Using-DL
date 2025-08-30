@@ -9,7 +9,7 @@
 1. [Project overview](#project-overview)
 2. [Repository structure](#repository-structure)
 3. [Prerequisites](#prerequisites)
-4. [Quick setup — one-shot (recommended)](#quick-setup-one-shot-(recommended))
+4. [Quick setup — one-shot (recommended)](#quick-setup)
 5. [Manual setup (detailed) — step by step](#manual-setup)
 
    * Create virtual environment
@@ -71,7 +71,8 @@ tomato disease classification project/       # project root
 
 ---
 
-## Quick setup — one-shot (recommended)
+## Quick setup
+ ` — one-shot (recommended) `
 
 If you want to get running quickly (backend + frontend) and you have `python`, `pip`, `node` and `npm` installed, run the following from the project root:
 
