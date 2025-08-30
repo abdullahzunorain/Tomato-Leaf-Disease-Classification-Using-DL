@@ -27,7 +27,7 @@
 10. [Deployment (short guide)](#deployment)
 11. [Troubleshooting & common issues](#troubleshooting)
 12. [Useful git commands](#git-commands)
-13. [License & contact](#license-&-contact)
+13. [License & contact](#license-and-contact)
 
 ---
 
@@ -380,7 +380,7 @@ git commit -m "use git-lfs for model files"
 
 ---
 
-## License & contact
+## License and contact
 
 This project uses the license included in the repository. If you want to contact the maintainer:
 
