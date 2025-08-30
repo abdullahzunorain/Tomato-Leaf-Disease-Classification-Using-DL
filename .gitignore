@@ -1,0 +1,80 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+*.ipynb~   # temp saves
+
+# Logs
+*.log
+
+# Data & models
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.tflite
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.npz
+*.npy
+desktop.ini
+
+# Project-specific big dirs
+saved_models/
+tomato_dataset_v1/
+#training (jupyter notebook)/
+test_images_from_internet/
+datasets/
+data/
+
+# API (Python backend)
+api/__pycache__/
+
+# Frontend build artifacts (Node/React)
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/build/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Frontend env files
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Root env files (if you ever create them)
+.env
+.env.local
+.env.*.local
+
+# VSCode / IDE
+.vscode/
+.idea/
