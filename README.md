@@ -212,8 +212,6 @@ curl -X POST -F "file=@/path/to/image.jpg" http://127.0.0.1:5000/predict
 
 **Note:** Check `api/main.py` to confirm the exact endpoint and form field name. The API commonly returns a JSON with predicted class and confidence.
 
----
-
 ## 𝙷̲𝚞̲𝚐̲𝚐̲𝚒̲𝚗̲𝚐̲ 𝙵̲𝚊̲𝚌̲𝚎̲ 𝚂̲𝚙̲𝚊̲𝚌̲𝚎̲ (𝙰̲𝚙̲𝚙̲)
 🔗 𝙷̲𝚞̲𝚐̲𝚐̲𝚒̲𝚗̲𝚐̲ 𝙵̲𝚊̲𝚌̲𝚎̲ 𝚂̲𝚙̲𝚊̲𝚌̲𝚎̲ (𝙰̲𝚙̲𝚙̲): [tomato-leaf-disease-app](https://huggingface.co/spaces/abdullahzunorain/tomato-leaf-disease-app)
 
@@ -231,6 +229,7 @@ Below is a sample output screenshot of the tomato disease detection result:
 </p>
 
 ---
+
 ## Training the model 
   `(Jupyter notebooks)`
 
