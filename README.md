@@ -214,6 +214,14 @@ curl -X POST -F "file=@/path/to/image.jpg" http://127.0.0.1:5000/predict
 
 ---
 
+## 𝙷̲𝚞̲𝚐̲𝚐̲𝚒̲𝚗̲𝚐̲ 𝙵̲𝚊̲𝚌̲𝚎̲ 𝚂̲𝚙̲𝚊̲𝚌̲𝚎̲ (𝙰̲𝚙̲𝚙̲)
+🔗 𝙷̲𝚞̲𝚐̲𝚐̲𝚒̲𝚗̲𝚐̲ 𝙵̲𝚊̲𝚌̲𝚎̲ 𝚂̲𝚙̲𝚊̲𝚌̲𝚎̲ (𝙰̲𝚙̲𝚙̲): [tomato-leaf-disease-app](https://huggingface.co/spaces/abdullahzunorain/tomato-leaf-disease-app)
+
+## 𝙱̲𝚎̲𝚜̲𝚝̲ 𝙼̲𝚘̲𝚍̲𝚎̲𝚕̲ (𝙲̲𝙽̲𝙽̲)
+🔗 𝙱̲𝚎̲𝚜̲𝚝̲ 𝙼̲𝚘̲𝚍̲𝚎̲𝚕̲ (𝙲̲𝙽̲𝙽̲): [best\_model.h5](https://huggingface.co/abdullahzunorain/tomato-leaf-disease-app/blob/main/best_model.h5)
+
+
+
 ## Sample Result
 
 Below is a sample output screenshot of the tomato disease detection result:
@@ -221,7 +229,6 @@ Below is a sample output screenshot of the tomato disease detection result:
 <p align="center">
   <img src="result.png" alt="Sample Result" width="600"/>
 </p>
-
 
 ---
 ## Training the model 
