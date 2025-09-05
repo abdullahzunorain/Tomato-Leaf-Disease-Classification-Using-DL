@@ -14,7 +14,7 @@
 🔗 Hugging Face Space (APP): [tomato-leaf-disease-app](https://huggingface.co/spaces/abdullahzunorain/tomato-leaf-disease-app)
 
 ### Best Model (CNN)
-🔗 Best Model (CNN): ([https://huggingface.co/abdullahzunorain/tomato-leaf-disease-app/blob/main/best_model.h5](https://huggingface.co/spaces/abdullahzunorain/tomato-leaf-disease-app/blob/main/best_model.h5))
+🔗 Best Model (CNN): [https://huggingface.co/abdullahzunorain/tomato-leaf-disease-app/blob/main/best_model.h5](https://huggingface.co/spaces/abdullahzunorain/tomato-leaf-disease-app/blob/main/best_model.h5)
 
 
 
